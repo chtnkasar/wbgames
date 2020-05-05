@@ -10,7 +10,7 @@ RUN yum install httpd -y && yum install git -y
 WORKDIR /root
 
 
-RUN git clone https://github.com/chtnkasar/wbgames.git
+RUN git clone https://github.com/chtnkasar/webgames.git
 
 
 CMD apachectl -DFOREGROUND
