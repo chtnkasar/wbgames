@@ -1,1 +1,1 @@
-# wbgames
+Dockerfile for building game image
